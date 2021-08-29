@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Just a basic script U can improvise lateron asper ur need xD 
+# Just a basic script U can improvise lateron as per ur need xD 
 
 MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git"
 DEVICE=rosemary
